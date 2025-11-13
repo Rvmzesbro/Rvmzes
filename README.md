@@ -1,7 +1,7 @@
 
-<div id="header" align="center" >
+<!-- <div id="header" align="center" >
    <img src="https://private-user-images.githubusercontent.com/74038190/243199547-42077049-1939-493e-9a19-47ca5db36643.gif?jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NjMwNTUyOTYsIm5iZiI6MTc2MzA1NDk5NiwicGF0aCI6Ii83NDAzODE5MC8yNDMxOTk1NDctNDIwNzcwNDktMTkzOS00OTNlLTlhMTktNDdjYTVkYjM2NjQzLmdpZj9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNTExMTMlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjUxMTEzVDE3Mjk1NlomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTE1NWVjMDc3ZWE1NGE2MDdhYTFmMTBmM2VhOTZkMDI3ZTRjYzE0MjRkNjFjODhhNTI1NjliZjRlNTRiYTlmZjImWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0.eXWUjNyasxaoajFwpRsiOQkxYwf378RmboHB5qc1qIw" width="300" height="300"/>
-</div>
+</div> -->
 
 <h1>
   <img src="https://private-user-images.githubusercontent.com/74038190/240815616-7b282ec6-fcc3-4600-90a7-2c3140549f58.gif?jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NjMwNTQ5ODcsIm5iZiI6MTc2MzA1NDY4NywicGF0aCI6Ii83NDAzODE5MC8yNDA4MTU2MTYtN2IyODJlYzYtZmNjMy00NjAwLTkwYTctMmMzMTQwNTQ5ZjU4LmdpZj9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNTExMTMlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjUxMTEzVDE3MjQ0N1omWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTQ4YzJlMDI3MDBmNDljNmQ2ZjRmNThhOWFmNDVmMTFlMmUyYTEyYzRkODFiMjk0YjA4NTBiMWM3OGRhOWI4ODcmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0.FrVJRccQgCTh6Lsi4YfQCZefeSFir7QqvWWTgtfUNE0" width="30px"/>
@@ -16,7 +16,7 @@
 
 ---
 
-## 🔍 About Me
+<!--## 🔍 About Me-->
 <h2 align="center">🔍 About Me</h2>
 
 ### I'm currently working on C# (.NET). I like to solve complex problems and translate ideas into reliable code.
@@ -30,13 +30,15 @@
 
 ---
 
-## 🌐 Connect with Me
+<!--## 🌐 Connect with Me-->
+<h2 align="center">🌐 Connect with Me</h2>
 
 <p align="left"><a href="mailto:galeevramazan64@gmail.com"><img src="https://github.com/tandpfun/skill-icons/raw/main/icons/Gmail-Dark.svg" height="30" alt="Email"/></a>&nbsp;<a href="https://t.me/KisloSladki"><img src="https://upload.wikimedia.org/wikipedia/commons/8/83/Telegram_2019_Logo.svg" height="30" alt="Telegram"/></a></p>
 
 ---
 
-## 📄 Tech Stack
+<!--## 📄 Tech Stack-->
+<h2 align="center">📄 Tech Stack</h2>
 
 ### 🌌 Backend
 <p>
@@ -83,7 +85,8 @@
 
 ---
 
-## 📊 GitHub Stats
+<!--## 📊 GitHub Stats-->
+<h2 align="center">📊 GitHub Stats</h2>
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Rvmzesbro&theme=tokyonight&show_icons=true&count_private=true&hide_border=true" height="150" />
@@ -91,8 +94,10 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rvmzesbro&theme=tokyonight&layout=compact&hide_border=true" height="140" />
 </div>
 
+<!--
 ---
 
 ### ✍️ Quote of the Day
 
 > **“Code is like humor. When you have to explain it, it’s bad.”** — _Cory House_
+-->
