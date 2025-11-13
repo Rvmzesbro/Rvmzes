@@ -44,9 +44,9 @@ Currently focused on **C#** and **.NET**. I love solving complex problems and tu
 
 ### 🎨 Frontend
 <p>
-  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/HTML.svg" title="HTML" width="30" />
+  <!-- <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/HTML.svg" title="HTML" width="30" />
   <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/CSS.svg" title="CSS" width="30" />
-  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/JavaScript.svg" title="JavaScript" width="30" />
+  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/JavaScript.svg" title="JavaScript" width="30" /> -->
   <img src="https://files.svgcdn.io/devicon/blazor.svg" title="Blazor" width="30" />
 </p>
 
