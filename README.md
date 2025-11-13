@@ -41,7 +41,7 @@ Currently focused on **C#** and **.NET**. I love solving complex problems and tu
 
 ---
 
-# 📄 Tech Stack
+## 📄 Tech Stack
 
 ### 🌌 Backend
 <p>
@@ -85,7 +85,7 @@ Currently focused on **C#** and **.NET**. I love solving complex problems and tu
 
 ---
 
-### 📊 GitHub Stats
+## 📊 GitHub Stats
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Rvmzesbro&theme=tokyonight&show_icons=true&count_private=true&hide_border=true" height="150" />
