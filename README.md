@@ -78,11 +78,12 @@ Currently focused on **C#** and **.NET**. I love solving complex problems and tu
   <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Linux-Dark.svg" title="Linux" width="30" />
 </p>
 
-### 🛠️ IDEs
+### 🛠️ IDE and Code Editors
 <p>
   <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/VSCode-Dark.svg" title="VS Code" width="30" />
   <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/VisualStudio-Dark.svg" title="Visual Studio" width="30" />
   <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Rider-Dark.svg" title="Rider" width="30" />
+  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Idea-Dark.svg" title="Idea" width="30" />
 </p>
 
 ---
