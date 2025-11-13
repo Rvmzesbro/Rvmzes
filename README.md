@@ -17,6 +17,7 @@
 ---
 
 ## 🔍 About Me
+<h2 align="center">🔍 About Me</h2>
 
 ### I'm currently working on C# (.NET). I like to solve complex problems and translate ideas into reliable code.
 
